@@ -19,7 +19,7 @@ This C code presents an engaging matrix challenge where you navigate through a m
 2. **Clone the Repository:** Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/matrix-challenge.git
+   git clone https://github.com/DevFalconsz/Navigation-in-Matrix.git
 
 # Descrição em Português
 
@@ -40,4 +40,4 @@ Este código em C apresenta um desafiador labirinto representado por uma matriz 
 2. **Clone o Repositório:** Clone o repositório forkado para a sua máquina local.
 
    ```bash
-   git clone https://github.com/seu-nome/Desafio-da-Matriz.git
+   git clone https://github.com/DevFalconsz/Navigation-in-Matrix.git
