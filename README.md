@@ -41,3 +41,11 @@ Este código em C apresenta um desafiador labirinto representado por uma matriz 
 
    ```bash
    git clone https://github.com/DevFalconsz/Navigation-in-Matrix.git
+
+# Images:
+
+### Begin - Começo:
+![Image](https://i.imgur.com/r4cFUzR.png)
+
+### First Move - Primeiro movimento:
+![Image](https://i.imgur.com/zt5VtWK.png)
